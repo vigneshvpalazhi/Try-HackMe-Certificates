@@ -13,3 +13,14 @@
 ### Pre Security
 ![Pre Security Learning Path](preview/presecurity.png)
 ![Downlaod certificate](thmcerts/THM-RXXSGJ4ZBR.pdf)
+
+
+
+
+-------------------------------------------------------------------------------------------------
+
+## CTF Participation
+
+### Hackfinity Battle CTF
+![Hackfinity Battle](preview/hackfinity.png)
+![Download certificate](thmcerts/THM-BIFEYIQLHQ.pdf)
