@@ -12,3 +12,4 @@
 
 ### Pre Security
 ![Pre Security Learning Path](preview/presecurity.png)
+![Downlaod certificate](thmcerts/THM-RXXSGJ4ZBR.pdf)
